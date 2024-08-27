@@ -1,0 +1,50 @@
+﻿osu file format v128
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+SamplesMatchPlaybackRate: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 8
+GridSize: 0
+TimelineZoom: 1
+
+[Metadata]
+Title: The Guide
+TitleUnicode: The Guide
+Artist: Rachie
+ArtistUnicode: Rachie
+Creator: CattoYT
+Version: Normal
+
+[Difficulty]
+HPDrainRate: 5
+CircleSize: 4
+OverallDifficulty: 5
+ApproachRate: 5
+SliderMultiplier: 1.3999999687075613
+SliderTickRate: 1
+
+[Events]
+
+[TimingPoints]
+468.41406647581607,500,4,1,0,100,1,0
+
+
+[HitObjects]
+384,192,468.41406647581607,1,0,1:0:0:100:
+256,192,593.4140664758161,1,0,1:0:0:100:
+128,192,718.4140664758161,1,0,1:0:0:100:
+0,192,843.4140664758161,1,0,1:0:0:100:
+256,192,968.4140664758161,1,0,1:0:0:100:
+128,192,1093.414066475816,1,0,1:0:0:100:
