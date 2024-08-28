@@ -3,7 +3,7 @@
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: -1
+PreviewTime: 65976
 Countdown: 1
 SampleSet: Normal
 StackLeniency: 0.7
@@ -38,7 +38,8 @@ SliderTickRate: 1
 [Events]
 
 [TimingPoints]
-468.41406647581607,500,4,1,0,100,1,0
+468.41406647581607,-100,4,0,0,100,0,0
+476,500,4,1,0,100,1,0
 
 
 [HitObjects]
