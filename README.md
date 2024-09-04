@@ -1,4 +1,5 @@
 # ShinsekaiAnnaisho-Osu-Map
+![image](https://github.com/user-attachments/assets/9825a8f9-0c0b-4f55-9512-d053a4b55ed9)
 
 Second map for OSU, this time wit the song [The Guide (Shinsekai Annaisho)](https://www.youtube.com/watch?v=1dZwBvLm-jI), covered by Rachie :D   
 
